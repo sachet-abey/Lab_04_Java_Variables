@@ -35,7 +35,7 @@ public class Main {
         System.out.println("My favorite number is "+favoriteNum);
         int shoeSize = 9;
         System.out.println("My shoe size is "+shoeSize);
-        int birthMonth = 4;
+        String birthMonth = "April";
         System.out.println("My birth month is "+birthMonth);
         String fullName = "Sachet Abeysinghe";
         System.out.println("My full name is "+fullName);
